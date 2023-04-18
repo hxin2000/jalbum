@@ -3,170 +3,100 @@
      xmlns:media="http://search.yahoo.com/mrss/"
      xmlns:jalbum="http://jalbum.net/jalbumrss">
     <channel>
-        <title>__國家地理攝影精選600張</title>
+        <title>校園角落</title>
    	<link>.</link>
-        <generator>jAlbum 30.1</generator>
+        <generator>jAlbum 30.2</generator>
    		<description></description>
         <jalbum:absolutePath></jalbum:absolutePath>
         <item>
-            <title>01384_582</title>
-            <link>slides/01384_582.jpg</link>
-            <pubDate>Thu, 30 Mar 2023 10:43:51 +0800</pubDate>
-            <description></description>
-            <media:description type="html"></media:description>
-            <media:thumbnail url="thumbs/01384_582.jpg" width="212" height="159"/>
-            <media:content type="image/jpeg" url="slides/01384_582.jpg" width="1000" height="750"/>
-            <guid isPermaLink="false">slides/01384_582.jpg</guid>
+            <title>悠閒</title>
+            <link>slides/cpm35%202023-04-12%20002638.116.JPG</link>
+            <pubDate>Tue, 18 Apr 2023 15:56:58 +0800</pubDate>
+            <description>小鳥自由的活動對比來來去去的學生格外悠閒
+</description>
+            <media:description type="html">小鳥自由的活動對比來來去去的學生格外悠閒
+</media:description>
+            <media:thumbnail url="thumbs/cpm35%202023-04-12%20002638.116.JPG" width="212" height="170"/>
+            <media:content type="image/jpeg" url="slides/cpm35%202023-04-12%20002638.116.JPG" width="534" height="800"/>
+            <jalbum:exif originalDate="Tue, 11 Apr 2023 15:06:46 +0800" cameraMake="Apple" cameraModel="iPhone XR"/>
+            <guid isPermaLink="false">slides/cpm35%202023-04-12%20002638.116.JPG</guid>
         </item>
         <item>
-            <title>01846_85</title>
-            <link>slides/01846_85.jpg</link>
-            <pubDate>Thu, 30 Mar 2023 10:43:51 +0800</pubDate>
-            <description></description>
-            <media:description type="html"></media:description>
-            <media:thumbnail url="thumbs/01846_85.jpg" width="212" height="159"/>
-            <media:content type="image/jpeg" url="slides/01846_85.jpg" width="1000" height="750"/>
-            <guid isPermaLink="false">slides/01846_85.jpg</guid>
+            <title>街道上的驚喜</title>
+            <link>slides/hoga%202023-04-12%20002044.493.jpg</link>
+            <pubDate>Tue, 18 Apr 2023 15:56:58 +0800</pubDate>
+            <description>粉色的花為皆是綠色植物的街道增添一絲美感</description>
+            <media:description type="html">粉色的花為皆是綠色植物的街道增添一絲美感</media:description>
+            <media:thumbnail url="thumbs/hoga%202023-04-12%20002044.493.jpg" width="212" height="170"/>
+            <media:content type="image/jpeg" url="slides/hoga%202023-04-12%20002044.493.jpg" width="800" height="800"/>
+            <jalbum:exif originalDate="Tue, 11 Apr 2023 15:06:30 +0800" cameraMake="Apple" cameraModel="iPhone XR"/>
+            <guid isPermaLink="false">slides/hoga%202023-04-12%20002044.493.jpg</guid>
         </item>
         <item>
-            <title>01936_9957</title>
-            <link>slides/01936_9957.jpg</link>
-            <pubDate>Thu, 30 Mar 2023 10:43:51 +0800</pubDate>
-            <description></description>
-            <media:description type="html"></media:description>
-            <media:thumbnail url="thumbs/01936_9957.jpg" width="212" height="159"/>
-            <media:content type="image/jpeg" url="slides/01936_9957.jpg" width="1000" height="750"/>
-            <guid isPermaLink="false">slides/01936_9957.jpg</guid>
+            <title>學習</title>
+            <link>slides/IMG_0897.JPG</link>
+            <pubDate>Tue, 18 Apr 2023 15:56:58 +0800</pubDate>
+            <description>教學樓外的大樹與小樹象徵教室裡的老師與學生
+</description>
+            <media:description type="html">教學樓外的大樹與小樹象徵教室裡的老師與學生
+</media:description>
+            <media:thumbnail url="thumbs/IMG_0897.JPG" width="212" height="170"/>
+            <media:content type="image/jpeg" url="slides/IMG_0897.JPG" width="600" height="800"/>
+            <guid isPermaLink="false">slides/IMG_0897.JPG</guid>
         </item>
         <item>
-            <title>01936_14875</title>
-            <link>slides/01936_14875.jpg</link>
-            <pubDate>Thu, 30 Mar 2023 10:43:51 +0800</pubDate>
-            <description></description>
-            <media:description type="html"></media:description>
-            <media:thumbnail url="thumbs/01936_14875.jpg" width="212" height="159"/>
-            <media:content type="image/jpeg" url="slides/01936_14875.jpg" width="1000" height="750"/>
-            <guid isPermaLink="false">slides/01936_14875.jpg</guid>
+            <title>綠色的拱門</title>
+            <link>slides/IMG_0896.JPG</link>
+            <pubDate>Tue, 18 Apr 2023 15:56:58 +0800</pubDate>
+            <description>排列的大樹形成拱門般的景象</description>
+            <media:description type="html">排列的大樹形成拱門般的景象</media:description>
+            <media:thumbnail url="thumbs/IMG_0896.JPG" width="212" height="170"/>
+            <media:content type="image/jpeg" url="slides/IMG_0896.JPG" width="600" height="800"/>
+            <guid isPermaLink="false">slides/IMG_0896.JPG</guid>
         </item>
         <item>
-            <title>02544_18</title>
-            <link>slides/02544_18.jpg</link>
-            <pubDate>Thu, 30 Mar 2023 10:43:51 +0800</pubDate>
-            <description></description>
-            <media:description type="html"></media:description>
-            <media:thumbnail url="thumbs/02544_18.jpg" width="212" height="159"/>
-            <media:content type="image/jpeg" url="slides/02544_18.jpg" width="1000" height="750"/>
-            <guid isPermaLink="false">slides/02544_18.jpg</guid>
+            <title>紓壓</title>
+            <link>slides/IMG_0900.JPG</link>
+            <pubDate>Tue, 18 Apr 2023 15:56:58 +0800</pubDate>
+            <description>考完試沉重的心情看到美麗的天空就煙消雲散</description>
+            <media:description type="html">考完試沉重的心情看到美麗的天空就煙消雲散</media:description>
+            <media:thumbnail url="thumbs/IMG_0900.JPG" width="212" height="170"/>
+            <media:content type="image/jpeg" url="slides/IMG_0900.JPG" width="600" height="800"/>
+            <guid isPermaLink="false">slides/IMG_0900.JPG</guid>
         </item>
         <item>
-            <title>02766_415</title>
-            <link>slides/02766_415.jpg</link>
-            <pubDate>Thu, 30 Mar 2023 10:43:51 +0800</pubDate>
-            <description></description>
-            <media:description type="html"></media:description>
-            <media:thumbnail url="thumbs/02766_415.jpg" width="212" height="159"/>
-            <media:content type="image/jpeg" url="slides/02766_415.jpg" width="1000" height="750"/>
-            <guid isPermaLink="false">slides/02766_415.jpg</guid>
+            <title>獨特</title>
+            <link>slides/IMG_0898.JPG</link>
+            <pubDate>Tue, 18 Apr 2023 15:56:58 +0800</pubDate>
+            <description>校園裡獨樹一格的建設</description>
+            <media:description type="html">校園裡獨樹一格的建設</media:description>
+            <media:thumbnail url="thumbs/IMG_0898.JPG" width="212" height="170"/>
+            <media:content type="image/jpeg" url="slides/IMG_0898.JPG" width="600" height="800"/>
+            <guid isPermaLink="false">slides/IMG_0898.JPG</guid>
         </item>
         <item>
-            <title>03100_323</title>
-            <link>slides/03100_323.jpg</link>
-            <pubDate>Thu, 30 Mar 2023 10:43:51 +0800</pubDate>
-            <description></description>
-            <media:description type="html"></media:description>
-            <media:thumbnail url="thumbs/03100_323.jpg" width="212" height="159"/>
-            <media:content type="image/jpeg" url="slides/03100_323.jpg" width="1000" height="750"/>
-            <guid isPermaLink="false">slides/03100_323.jpg</guid>
+            <title>自然美</title>
+            <link>slides/IMG_0901.JPG</link>
+            <pubDate>Tue, 18 Apr 2023 15:56:58 +0800</pubDate>
+            <description>陽光灑落在雄偉的樹上
+</description>
+            <media:description type="html">陽光灑落在雄偉的樹上
+</media:description>
+            <media:thumbnail url="thumbs/IMG_0901.JPG" width="212" height="170"/>
+            <media:content type="image/jpeg" url="slides/IMG_0901.JPG" width="600" height="800"/>
+            <guid isPermaLink="false">slides/IMG_0901.JPG</guid>
         </item>
         <item>
-            <title>04055_12</title>
-            <link>slides/04055_12.jpg</link>
-            <pubDate>Thu, 30 Mar 2023 10:43:51 +0800</pubDate>
-            <description></description>
-            <media:description type="html"></media:description>
-            <media:thumbnail url="thumbs/04055_12.jpg" width="212" height="159"/>
-            <media:content type="image/jpeg" url="slides/04055_12.jpg" width="1000" height="750"/>
-            <guid isPermaLink="false">slides/04055_12.jpg</guid>
-        </item>
-        <item>
-            <title>05595_106</title>
-            <link>slides/05595_106.jpg</link>
-            <pubDate>Thu, 30 Mar 2023 10:43:51 +0800</pubDate>
-            <description></description>
-            <media:description type="html"></media:description>
-            <media:thumbnail url="thumbs/05595_106.jpg" width="212" height="159"/>
-            <media:content type="image/jpeg" url="slides/05595_106.jpg" width="1000" height="750"/>
-            <guid isPermaLink="false">slides/05595_106.jpg</guid>
-        </item>
-        <item>
-            <title>5595_223</title>
-            <link>slides/5595_223.jpg</link>
-            <pubDate>Thu, 30 Mar 2023 10:43:51 +0800</pubDate>
-            <description></description>
-            <media:description type="html"></media:description>
-            <media:thumbnail url="thumbs/5595_223.jpg" width="212" height="159"/>
-            <media:content type="image/jpeg" url="slides/5595_223.jpg" width="1000" height="750"/>
-            <guid isPermaLink="false">slides/5595_223.jpg</guid>
-        </item>
-        <item>
-            <title>5595_347</title>
-            <link>slides/5595_347.jpg</link>
-            <pubDate>Thu, 30 Mar 2023 10:43:51 +0800</pubDate>
-            <description></description>
-            <media:description type="html"></media:description>
-            <media:thumbnail url="thumbs/5595_347.jpg" width="212" height="159"/>
-            <media:content type="image/jpeg" url="slides/5595_347.jpg" width="1000" height="750"/>
-            <guid isPermaLink="false">slides/5595_347.jpg</guid>
-        </item>
-        <item>
-            <title>05605_139</title>
-            <link>slides/05605_139.jpg</link>
-            <pubDate>Thu, 30 Mar 2023 10:43:51 +0800</pubDate>
-            <description></description>
-            <media:description type="html"></media:description>
-            <media:thumbnail url="thumbs/05605_139.jpg" width="212" height="159"/>
-            <media:content type="image/jpeg" url="slides/05605_139.jpg" width="1000" height="750"/>
-            <guid isPermaLink="false">slides/05605_139.jpg</guid>
-        </item>
-        <item>
-            <title>05727_614</title>
-            <link>slides/05727_614.jpg</link>
-            <pubDate>Thu, 30 Mar 2023 10:43:51 +0800</pubDate>
-            <description></description>
-            <media:description type="html"></media:description>
-            <media:thumbnail url="thumbs/05727_614.jpg" width="212" height="159"/>
-            <media:content type="image/jpeg" url="slides/05727_614.jpg" width="1000" height="750"/>
-            <guid isPermaLink="false">slides/05727_614.jpg</guid>
-        </item>
-        <item>
-            <title>05809_237</title>
-            <link>slides/05809_237.jpg</link>
-            <pubDate>Thu, 30 Mar 2023 10:43:51 +0800</pubDate>
-            <description></description>
-            <media:description type="html"></media:description>
-            <media:thumbnail url="thumbs/05809_237.jpg" width="212" height="159"/>
-            <media:content type="image/jpeg" url="slides/05809_237.jpg" width="1000" height="750"/>
-            <guid isPermaLink="false">slides/05809_237.jpg</guid>
-        </item>
-        <item>
-            <title>05809_1005</title>
-            <link>slides/05809_1005.jpg</link>
-            <pubDate>Thu, 30 Mar 2023 10:43:51 +0800</pubDate>
-            <description></description>
-            <media:description type="html"></media:description>
-            <media:thumbnail url="thumbs/05809_1005.jpg" width="212" height="159"/>
-            <media:content type="image/jpeg" url="slides/05809_1005.jpg" width="1000" height="750"/>
-            <guid isPermaLink="false">slides/05809_1005.jpg</guid>
-        </item>
-        <item>
-            <title>5809_448</title>
-            <link>slides/5809_448.jpg</link>
-            <pubDate>Thu, 30 Mar 2023 10:43:51 +0800</pubDate>
-            <description></description>
-            <media:description type="html"></media:description>
-            <media:thumbnail url="thumbs/5809_448.jpg" width="212" height="159"/>
-            <media:content type="image/jpeg" url="slides/5809_448.jpg" width="1000" height="750"/>
-            <guid isPermaLink="false">slides/5809_448.jpg</guid>
+            <title>校園森活</title>
+            <link>slides/IMG_0899.JPG</link>
+            <pubDate>Tue, 18 Apr 2023 15:56:58 +0800</pubDate>
+            <description>校園充滿滿滿的大自然
+</description>
+            <media:description type="html">校園充滿滿滿的大自然
+</media:description>
+            <media:thumbnail url="thumbs/IMG_0899.JPG" width="212" height="170"/>
+            <media:content type="image/jpeg" url="slides/IMG_0899.JPG" width="600" height="800"/>
+            <guid isPermaLink="false">slides/IMG_0899.JPG</guid>
         </item>
     </channel>
 </rss>
